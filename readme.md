@@ -1,4 +1,4 @@
-## Unofficial Cascade Extension
+## Unofficial Chapman University Cascade Extension
 
 
 Opens the current "live" page in Cascade's edit view. 
