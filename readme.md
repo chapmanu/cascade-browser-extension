@@ -10,7 +10,7 @@ https://chrome.google.com/webstore/detail/chapmanedu-cascade-extend/appbgpifmgem
  
  Alternatively, it can be used as a bookmarklet. 
  
- Steps:
+ Steps: https://mreidsma.github.io/bookmarklets/installing.html
  
  1) Add any page as a bookmark
  2) Edit the bookmark address and replace the URL with following:
